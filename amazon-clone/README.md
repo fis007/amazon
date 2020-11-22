@@ -1,3 +1,9 @@
+firebase init
+Functions: Configure and deploy Cloud Functions
+firebase emulators:start
+
+http://localhost:5001/challenge-8e2f1/us-central1/api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
