@@ -2,6 +2,13 @@ firebase init
 Functions: Configure and deploy Cloud Functions
 firebase emulators:start
 
+firebase deploy --only functions
+
+npm run build
+
+firebase deploy --only hosting
+
+
 http://localhost:5001/challenge-8e2f1/us-central1/api
 
 # Getting Started with Create React App
